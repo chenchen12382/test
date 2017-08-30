@@ -24,5 +24,4 @@ public class TestController extends BaseController{
 		
 		return success(Constant.SUCCESS_MSG);
 	}
-	
 }
